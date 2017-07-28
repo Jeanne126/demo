@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+
+#first part#
+.ui.inverted.red.segment.header{
+	position: absolute;
+  height:20px;
+}
+
+.ui.text.admin {
+	font-size: 18px;
+	position:static;
+	transform: translate(85%,-15%);
+}
+
+.ui.right.floated.inverted.circular.button{
+	position:relative;
+	transform:translate(-20%,-100%);
+}
+
+
+.card{
+	border:0px;
+	height:300px;
+	width:auto
+	border-color:transparent;
+	position: relative;
+	transform: translate(10%,0)
+
+}
+
+.ui.horizontal.segments{
+	margin-top: 0%;
+	border:0px;
+	padding-left:7%;
+	position: relative;
+
+}
+
+
+
+p{border:0px;
+
+}
+
+.ui.image{
+	height:70%;
+	width:98%;
+	position:relative;
+	padding:0 1% 0 1%;
+	transform:translate(5%,5%);
+	object-fit: cover;
+}
+
+
+h5{
+  margin-top: 10%;
+	padding-left:7%;
+	position: relative;
+}
+
+.ui.grid{
+	border-style: none;
+}

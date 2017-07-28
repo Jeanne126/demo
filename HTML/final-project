@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>10mins final project</title>
+		<link rel="stylesheet" href="../CSS/semantic.css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="../CSS/modified-style.css" media="screen" title="no title" charset="utf-8">
+	</head>
+
+	<body>
+		<div class="ui inverted red segment header">
+					<img class="ui image 10-mins" src="../images/tenlogo.png" alt=""style="width:250px;margin-bottom:50%;position:absolute;transform:translate(-10%,-30%)"/>
+
+		<div class="ui text admin">
+			<p>admin</p>
+		</div>
+			<button type="button" name="button" class="ui right floated inverted circular button">log in </button>
+		</div>
+
+
+
+
+
+		<div class="ui center aligned container">
+			<div class="ui three item borderless menu" style='width:300px;position:relative;transform:translate(100%,0%);'>
+				<a class='active item'>All</a>
+				<a class='active item'>New</a>
+				<a class='item'>Editor's</a>
+			</div>
+		</div>
+
+
+		<div class="ui basic segment">
+			<div class="ui grid">
+				<div class="five wide column">
+					<div class="card">
+						<img class="ui image" src="../images/bremen-town-musicians-1651945__340.jpg" alt="" />
+	 				 <h5>Ut unde numquam non nisi</h5>
+	 				 <div class="ui horizontal borderless segments">
+	 					 <i class='icon unhide'></i>
+	 					 <span><p style="border-right:solid 1px;
+							 border-color:grey;padding-right:10%">
+	 					 	10k
+	 					 </p></span>
+	 					 <i class="icon checkmark"></i>
+	 					 <span><p>
+	 					 	10 pepple got it
+	 					 </p></span>
+					</div>
+				</div>
+			</div>
+
+			<div class="five wide column">
+				<div class="card">
+					<img class="ui image" src="../images/mill-1620440__340.jpg" alt="" />
+					<h5>Nesciunt eligendi qui et si…</h5>
+					<div class="ui horizontal segments">
+						<i class='icon unhide'></i>
+						<span><p style="border-right:solid 1px;
+							border-color:grey;padding-right:10%">
+						 10k
+						</p></span>
+						<i class="icon checkmark"></i>
+						<span><p>
+						 10 pepple got it
+						</p></span>
+			 </div>
+		 </div>
+	 </div>
+
+
+			 <div class="five wide column">
+				 <div class="card">
+					 <img class="ui image" src="../images/sunset-1625073__340.jpg" alt="" />
+					 <h5>Quo accusantium commodi in…</h5>
+					 <div class="ui horizontal segments">
+						 <i class='icon unhide'></i>
+						 <span><p style="border-right:solid 1px;
+							 border-color:grey;padding-right:10%">
+							10k
+						 </p></span>
+						 <i class="icon checkmark"></i>
+						 <span><p>
+							10 pepple got it
+						 </p></span>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+
+
+
+	<div class="ui basic segment">
+		<div class="ui grid">
+			<div class="five wide column">
+				<div class="card">
+					<div class="four wide column">
+						 <img class="ui image" src="../images/cobweb-1630493__340.jpg" alt="" />
+						 <h5>Ut unde numquam non nisi</h5>
+						 <div class="ui horizontal segments">
+							 <i class='icon unhide'></i>
+							 <span><p style="border-right:solid 1px;
+								 border-color:grey;padding-right:10%">
+							 	10k
+							 </p></span>
+							 <i class="icon checkmark"></i>
+							 <span><p>
+							 	10 pepple got it
+							</p></span>
+						</div>
+					</div>
+			</div>
+		</div>
+
+		<div class="five wide column">
+			<div class="card">
+				<img class="ui image" src="../images/rk5161-1636868__340.jpg" alt="" />
+				<h5>Nesciunt eligendi qui et si…</h5>
+				<div class="ui horizontal segments">
+					<i class='icon unhide'></i>
+					<span><p style="border-right:solid 1px;
+						border-color:grey;padding-right:10%">
+					 10k
+					</p></span>
+					<i class="icon checkmark"></i>
+					<span><p>
+					 10 pepple got it
+				 </p></span>
+			 </div>
+		 </div>
+	 </div>
+
+		 <div class="five wide column">
+			 <div class="card">
+				 <img class="ui image" src="../images/berries-1546125__340.jpg" alt="" />
+				 <h5>Quo accusantium commodi in…</h5>
+				 <div class="ui horizontal segments">
+					 <i class='icon unhide'></i>
+					 <span><p style="border-right:solid 1px;
+						 border-color:grey;padding-right:10%">
+						10k
+					 </p></span>
+					 <i class="icon checkmark"></i>
+					 <span><p>
+						10 pepple got it
+					</p></span>
+				</div>
+		</div>
+	</div>
+	</div>
+	</div>
+
+
+
+
+	<div class="ui basic segment">
+		<div class="ui grid">
+			<div class="five wide column">
+				<div class="card">
+					<div class="four wide column">
+							<img class="ui image" src="../images/elan-1623088__340.jpg" alt="" />
+							<h5>Ut unde numquam non nisi</h5>
+							<div class="ui horizontal segments">
+								<i class='icon unhide'></i>
+								<span><p style="border-right:solid 1px;
+	 							 border-color:grey;padding-right:10%">
+								 10k
+								</p></span>
+								<i class="icon checkmark"></i>
+								<span><p>
+								 10 pepple got it
+							 </p></span>
+						 </div>
+					</div>
+			</div>
+		</div>
+
+		<div class="five wide column">
+			<div class="card">
+				<img class="ui image" src="../images/yellowstone-national-park-1581879__340.jpg" alt="" />
+				<h5>Nesciunt eligendi qui et si…</h5>
+				<div class="ui basic horizontal segments">
+					<i class='icon unhide'></i>
+					<span><p style="border-right:solid 1px;
+						border-color:grey;padding-right:10%">
+					 10k
+					</p></span>
+					<i class="icon checkmark"></i>
+					<span><p>
+					 10 pepple got it
+				 </p></span>
+			 </div>
+		 </div>
+	 </div>
+
+		 <div class="five wide column">
+			 <div class="card">
+				 <img class="ui image" src="../images/dachshund-1519374__340.jpg" alt=""/>
+				 <h5>Quo accusantium commodi in…</h5>
+				 <div class="ui horizontal segments">
+					 <i class='icon unhide'></i>
+					 <p style="border-right:solid 1px;
+						 border-color:grey;padding-right:1%">
+						10k
+					 </p>
+					 <i class="icon checkmark"></i>
+					 <p>
+						10 pepple got it
+					</p>
+				</div>
+		</div>
+	</div>
+	</div>
+	</div>
+
+
+	<div class="ui center aligned basic segment">
+		<div class="ui basic buttons">
+			<button class='ui button'><i class='arrow left red users icon'></i></button>
+
+			<button class="ui button"><i class='arrow right red users icon'></i></button>
+
+		</div>
+	</div>
+	</body>
